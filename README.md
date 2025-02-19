@@ -25,12 +25,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VictorBritto&theme=react&utcOffset=8" />
 </div>
 
-## 🏆 Github trophys
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=VictorBritto&theme=gitdimmed&row=2&column=3" alt="GitHub Trophy" />
-    </a>
-</div>
 
 ## 🤝🏼 Contribution
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorBritto&theme=react-dark" />
