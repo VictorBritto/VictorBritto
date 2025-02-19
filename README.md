@@ -16,16 +16,6 @@
     </p>
 </div>
 
-## 📱 Connect with me
-<p align="center">
-    <a href="https://www.instagram.com/victor.britoo_/">
-        <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
-    <a href="https://www.linkedin.com/in/victor-gabriel-7aba632a8/">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-</p>
-
 ## 📈 Github stats
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorBritto&theme=react" />
