@@ -11,7 +11,7 @@
 <div>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,github,html,js,ps,styledcomponents,xd,figma" />
+            <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,js,ps,vue" />
         </a>
     </p>
 </div>
