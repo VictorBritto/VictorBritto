@@ -5,19 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&color=bbd4ce&lines=Front-end+Developer;+UI/UX;Design+Graphic;☕;" />
 </h3>
 
-<div align="center">
-    <table align="center">
-        <tr border="none">
-            <td width="50%" align="left">
-                <h3>VICTOR GABRIEL</h3>
-                <img src="https://komarev.com/ghpvc/?username=VictorBritto&color=2f719c&label=Profile+Views&style=for-the-badge" />
-            </td>
-            <td width="50%" align="center">
-                <img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" />
-            </td>
-        </tr>
-    </table>
-</div>
 
 ## 👨‍💻 Technology Stack
 
