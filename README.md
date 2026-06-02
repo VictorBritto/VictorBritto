@@ -1,32 +1,22 @@
-<div id="top"></div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=113953&height=120&section=header"/>
+### **🤔 About:**
 
-<h3 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&letterSpacing=center&duration=4000&pause=1000&color=BBD4CE&center=true&width=435&lines=Desenvolvedor+Front-End" alt="Typing SVG" />
-</h3>
+```diff
+@@ I'am passionate about technology and art. @@
 
++ Living in Brazil 🇧🇷 — as engrenagens giram e não param 🔧
+- 22 years old 
+# Interested in building different and unusual things, JavaScript magic,
+```
 
-## 👨‍💻 Technology Stack
+# 💻 Tech Stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,mongodb,docker,git,postman,flutter,tailwind,bootstrap,laravel,php,javascript" />
+</p>
 
-<div>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,php,html,js,ps,vue" />
-        </a>
-    </p>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=XuanDeveloper&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XuanDeveloper&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanDeveloper&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📈 Github stats
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorBritto&theme=react" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorBritto&theme=react" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorBritto&theme=react" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorBritto&theme=react" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VictorBritto&theme=react&utcOffset=8" />
-</div>
-
-
-## 🤝🏼 Contribution
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorBritto&theme=react-dark" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=082841&height=120&section=footer"/>
+---
+[![](https://visitcount.itsvg.in/api?id=XuanDevoloper&icon=0&color=0)](https://visitcount.itsvg.in)
