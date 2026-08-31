@@ -1,22 +1,22 @@
 {
   "username": "VictorBritto",
-  "generated_at": "2026-08-30T11:55:18Z",
+  "generated_at": "2026-08-31T13:51:46Z",
   "range": {
     "start": "2025-08-31",
+    "end": "2026-08-31"
+  },
+  "total_contributions": 95,
+  "active_days": 41,
+  "avg_per_active_day": 2.3,
+  "current_streak": {
+    "length": 14,
+    "start": "2026-08-17",
     "end": "2026-08-30"
   },
-  "total_contributions": 94,
-  "active_days": 40,
-  "avg_per_active_day": 2.4,
-  "current_streak": {
-    "length": 13,
-    "start": "2026-08-17",
-    "end": "2026-08-29"
-  },
   "longest_streak": {
-    "length": 13,
+    "length": 14,
     "start": "2026-08-17",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-07-07",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 46
+      "total": 47
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-30",
+      "count": 1
+    },
+    {
+      "date": "2026-08-31",
       "count": 0
     }
   ]
